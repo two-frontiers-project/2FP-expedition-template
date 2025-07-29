@@ -47,4 +47,7 @@ This repository provides a basic folder structure and a set of spreadsheets for 
 
 4. The spreadsheets are in Microsoft Office formats. If you don’t have Office, you can open them with OpenOffice. You can also convert them to CSV files, but multi‑tab spreadsheets will lose functionality when converted.
 
+## Contact
+
+info at two frontiers dot org
 
