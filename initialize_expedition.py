@@ -16,7 +16,7 @@ def main():
     parser.add_argument("--name", required=True, help="Expedition name to use (e.g. DEEP_REEF_2025)")
     args = parser.parse_args()
 
-    placeholder = "###EXPEDITION_NAME###"
+    placeholder = "###EXPEDITIONNAME###"
     rename_files(placeholder, args.name)
 
 if __name__ == "__main__":
