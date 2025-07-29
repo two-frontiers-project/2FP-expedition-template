@@ -1,1 +1,1 @@
-Use this folder for adding any forms individuals need to fill out, most importantly liability and photo releases.
+Use this folder for adding any forms individuals need to fill out, most importantly liability and photo releases. The pdfs here are examples of what we use -- if you want links to these surveys, reach out directly to info at two frontiers dot org.
